@@ -1,0 +1,6 @@
+{
+  "name": "Call Recorder Pro",
+  "description": "تسجيل المكالمات وتخزينها بتنسيق MP3 مع ميزة المزامنة السحابية تلقائياً وإدارة التسجيلات الصوتية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
